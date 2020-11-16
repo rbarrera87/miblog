@@ -9,6 +9,7 @@ gem 'rails', '~> 6.0.3', '>= 6.0.3.3'
 # gem 'sqlite3', '~> 1.4'
 # postgres
 gem 'pg', '~> 1.2', '>= 1.2.3'
+gem 'devise', '~> 4.7', '>= 4.7.3'
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
 # Use SCSS for stylesheets
